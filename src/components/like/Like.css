@@ -1,0 +1,12 @@
+.Like-button{
+  border-radius: 5px;
+  width: 20px;
+  height: 20px;
+  background-color: white;
+}
+.redButton{
+  border-radius: 5px;
+  width: 20px;
+  height: 20px;
+  background-color: red;
+}
